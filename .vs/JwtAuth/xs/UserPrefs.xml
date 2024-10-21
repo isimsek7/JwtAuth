@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{C5C2EFC0-942F-4702-AC94-6D9615164224}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/AccountsController.cs">
+    <Files>
+      <File FileName="Models/AppUser.cs" Line="7" Column="3" />
+      <File FileName="Data/ApplicationDbContext.cs" Line="29" Column="50" />
+      <File FileName="Program.cs" Line="84" Column="4" />
+      <File FileName="appsettings.json" Line="15" Column="61" />
+      <File FileName="Controllers/AccountsController.cs" Line="31" Column="20" />
+      <File FileName="Dtos/RegisterDto.cs" Line="16" Column="13" />
+      <File FileName="Interfaces/ITokenService.cs" Line="8" Column="36" />
+      <File FileName="Services/TokenService.cs" Line="42" Column="51" />
+      <File FileName="Dtos/NewUserDto.cs" Line="9" Column="22" />
+      <File FileName="Dtos/LoginDto.cs" Line="14" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JwtAuth" expanded="True">
+            <Node name="JwtAuth" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="AccountsController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JwtAuth PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
